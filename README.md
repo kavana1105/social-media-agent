@@ -2,6 +2,12 @@
 
 An AI-powered social media content planning and generation tool built with Streamlit and OpenAI GPT-4.
 
+## 🌐 Live Demo
+
+**[Try it now!](https://YOUR-APP-URL.streamlit.app)** ← Replace with your actual Streamlit URL after deployment
+
+> Note: You'll need to provide your own OpenAI API key in the deployed version for security reasons.
+
 ## 🚀 Features
 
 - **30-Day Content Plan Generator** - Create a complete month of content ideas

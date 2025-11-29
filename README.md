@@ -4,7 +4,7 @@ An AI-powered social media content planning and generation tool built with Strea
 
 ## 🌐 Live Demo
 
-**[Try it now!](https://YOUR-APP-URL.streamlit.app)** ← Replace with your actual Streamlit URL after deployment
+**[🚀 Try it now!](https://kavana1105-social-media-agent.streamlit.app)**
 
 > Note: You'll need to provide your own OpenAI API key in the deployed version for security reasons.
 

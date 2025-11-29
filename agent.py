@@ -4,8 +4,8 @@ from typing import List, Dict
 from pydantic import BaseModel, Field
 from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
-from langchain.prompts import PromptTemplate
-from langchain.schema import SystemMessage, HumanMessage
+from langchain_core.prompts import PromptTemplate
+from langchain_core.messages import SystemMessage, HumanMessage
 from prompts import (
     SOCIAL_STRATEGY_SYSTEM,
     SOCIAL_STRATEGY_TEMPLATE,
